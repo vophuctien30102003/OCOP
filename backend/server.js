@@ -57,7 +57,7 @@ const products = [
     },
     {
         id: '3',
-        name: 'Chả Bò Bà Đệ',
+        name: 'Chả Bò',
         price: 120000,
         description: 'Chả bò dai giòn, thơm nức mũi. Được làm từ thịt bò tươi ngon, giã thủ công.',
         category: 'cha-bo',
