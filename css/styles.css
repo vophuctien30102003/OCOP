@@ -247,7 +247,7 @@ ul {
 /* === HERO SECTION === */
 .hero {
     background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), 
-                      url('https://via.placeholder.com/1920x900?text=Tr%C3%A9+B%C3%A0+%C4%90%E1%BB%87');
+                      url('/images/banner_l269.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
